@@ -5,6 +5,8 @@ Model G 2D Vortex Finder GUI
 A Tkinter GUI wrapper for Brendan's solver:
     model_g_2d_xy_safe_plus_vort__1a.py
 
+Run with: python3 model_g_2d_vortex_finder_gui__1i.py
+
 Main features
 -------------
 - Edit the main CLI parameters from the original solver.
@@ -19,6 +21,8 @@ Main features
 - adapted from: @ https://github.com/blue-science/subquantum_kinetics/blob/master/particle.nb and
 https://github.com/frostburn/tf2-model-g with https://github.com/frostburn/tf2-model-g/blob/master/docs/overview.pdf
 - with ChatGPT 5.4 writing it and Brendan guiding it to produce a clean code.
+
+Tested for: Ubuntu 24.04.3 LTS on i7-4790 (Optiplex 7020/9020), Python 3.10+
 
 ===========================
 ChatGPT 5.4:
