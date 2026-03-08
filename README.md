@@ -4,6 +4,8 @@ A Tkinter GUI wrapper for Brendan's solver:
 
     model_g_2d_xy_safe_plus_vort__1a.py
 
+    Run with: python3 model_g_2d_vortex_finder_gui__1i.py
+
 Main features
 
 -------------
