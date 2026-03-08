@@ -9,21 +9,14 @@ Main features
 -------------
 
 - Edit the main CLI parameters from the original solver.
-- 
 - SAFE vs VORT mode switching.
-- 
 - Good support for vortex investigation: rotseed, omega_drive, quiver, vorticity limits.
-- 
 - Command preview, live log, stop button.
-- 
 - Optional MP4 export.
-- 
 - Auto-patches a sidecar runner with --no_mp4 support when needed.
-- 
 - Vortex diagnostics panel that reads the latest checkpoint and estimates vortex strength/center.
 
 - Written by Brendan Darrer aided by ChatGPT 5.4 date: 8th March 2026 ~01:00 GMT
-- 
 - adapted from: @ https://github.com/blue-science/subquantum_kinetics/blob/master/particle.nb and
   
 https://github.com/frostburn/tf2-model-g with https://github.com/frostburn/tf2-model-g/blob/master/docs/overview.pdf
